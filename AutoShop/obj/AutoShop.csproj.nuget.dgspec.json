@@ -1,0 +1,282 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ioan/Projects/AutoShop/AutoShop/AutoShop.csproj": {}
+  },
+  "projects": {
+    "/Users/ioan/Projects/AutoShop/AutoShop/AutoShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ioan/Projects/AutoShop/AutoShop/AutoShop.csproj",
+        "projectName": "AutoShop",
+        "projectPath": "/Users/ioan/Projects/AutoShop/AutoShop/AutoShop.csproj",
+        "packagesPath": "/Users/ioan/.nuget/packages/",
+        "outputPath": "/Users/ioan/Projects/AutoShop/AutoShop/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ioan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/7.0.312/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/ioan/Projects/AutoShop/AutoShop_Models/AutoShop_Models.csproj": {
+                "projectPath": "/Users/ioan/Projects/AutoShop/AutoShop_Models/AutoShop_Models.csproj"
+              },
+              "/Users/ioan/Projects/AutoShop/AutoShop_Services/AutoShop_Services.csproj": {
+                "projectPath": "/Users/ioan/Projects/AutoShop/AutoShop_Services/AutoShop_Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[9.5.4, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ioan/Projects/AutoShop/AutoShop_Data/AutoShop_Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ioan/Projects/AutoShop/AutoShop_Data/AutoShop_Data.csproj",
+        "projectName": "AutoShop_Data",
+        "projectPath": "/Users/ioan/Projects/AutoShop/AutoShop_Data/AutoShop_Data.csproj",
+        "packagesPath": "/Users/ioan/.nuget/packages/",
+        "outputPath": "/Users/ioan/Projects/AutoShop/AutoShop_Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ioan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "/Users/ioan/Projects/AutoShop/AutoShop_Models/AutoShop_Models.csproj": {
+                "projectPath": "/Users/ioan/Projects/AutoShop/AutoShop_Models/AutoShop_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ioan/Projects/AutoShop/AutoShop_Models/AutoShop_Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ioan/Projects/AutoShop/AutoShop_Models/AutoShop_Models.csproj",
+        "projectName": "AutoShop_Models",
+        "projectPath": "/Users/ioan/Projects/AutoShop/AutoShop_Models/AutoShop_Models.csproj",
+        "packagesPath": "/Users/ioan/.nuget/packages/",
+        "outputPath": "/Users/ioan/Projects/AutoShop/AutoShop_Models/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ioan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ioan/Projects/AutoShop/AutoShop_Services/AutoShop_Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ioan/Projects/AutoShop/AutoShop_Services/AutoShop_Services.csproj",
+        "projectName": "AutoShop_Services",
+        "projectPath": "/Users/ioan/Projects/AutoShop/AutoShop_Services/AutoShop_Services.csproj",
+        "packagesPath": "/Users/ioan/.nuget/packages/",
+        "outputPath": "/Users/ioan/Projects/AutoShop/AutoShop_Services/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ioan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {
+              "/Users/ioan/Projects/AutoShop/AutoShop_Data/AutoShop_Data.csproj": {
+                "projectPath": "/Users/ioan/Projects/AutoShop/AutoShop_Data/AutoShop_Data.csproj"
+              },
+              "/Users/ioan/Projects/AutoShop/AutoShop_Models/AutoShop_Models.csproj": {
+                "projectPath": "/Users/ioan/Projects/AutoShop/AutoShop_Models/AutoShop_Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.312/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

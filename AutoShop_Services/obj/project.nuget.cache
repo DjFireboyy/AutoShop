@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "haD1gVZajk3GaYs1J4Cf4yEzUK+hRo5lj8aRZF2aY8U9Ls8VrbVBRM7sM0v8HHGvlYXfTj4mZSYlWcJ7ac+H6w==",
+  "success": true,
+  "projectFilePath": "/Users/ioan/Projects/AutoShop/AutoShop_Services/AutoShop_Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/ioan/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/ioan/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/ioan/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/ioan/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/ioan/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/ioan/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/ioan/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
