@@ -12,8 +12,8 @@ namespace AutoShop_Data.MemoryDb
             new Car()
             {
                 Id = 1,
-                Brand = "",
-                Model = "",
+                Brand = "Bmw",
+                Model = "Series 3 E36",
                 Power = 1,
                 EngineSize = 1,
                 Price = 10000.50,
@@ -21,8 +21,8 @@ namespace AutoShop_Data.MemoryDb
             new Car()
             {
                 Id = 2,
-                Brand = "",
-                Model = "",
+                Brand = "Mercedes",
+                Model = "E Class",
                 Power = 1,
                 EngineSize = 1,
                 Price = 10000.50,
@@ -30,8 +30,8 @@ namespace AutoShop_Data.MemoryDb
             new Car()
             {
                 Id = 3,
-                Brand = "",
-                Model = "",
+                Brand = "Renault",
+                Model = "Clio",
                 Power = 1,
                 EngineSize = 1,
                 Price = 10000.50,
